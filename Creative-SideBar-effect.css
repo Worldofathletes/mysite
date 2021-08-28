@@ -20,7 +20,7 @@
     position: fixed;
     width: 60px;
     height: 100%;
-    background: #3e0748;
+    background: #808080;
     transition: 0.5s;
     overflow: hidden;
 }
@@ -44,7 +44,7 @@
 }
 
  .SideBar ul li:hover {
-    background: #ea1d63;
+    background: #1a0000;
 }
 
  .SideBar ul li a {
